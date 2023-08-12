@@ -1,0 +1,53 @@
+.btn {
+  padding: 1.5rem 3.1rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  line-height: normal;
+}
+
+.brown-btn {
+  background-color: $brown-color;
+  color: $white-color;
+}
+
+.brown-btn:hover {
+  background-color: $brown-light-color;
+}
+
+.black-btn {
+  background-color: $white-color;
+  color: $black-one-color;
+  padding: 10px 40px;
+  border: 1px solid $black-one-color;
+}
+
+.black-btn:hover {
+  background-color: $black-one-color;
+  color: $white-color;
+}
+
+.shop-btn__inner-wrapper {
+  display: flex;
+  gap: 1.3rem;
+  align-items: center;
+}
+
+.shop-btn__text {
+  color: $black-one-color;
+  opacity: 0.5;
+}
+.shop-btn__icon {
+  img {
+    width: 5px;
+    height: 10px;
+  }
+}
+
+.shop-btn:hover {
+  .shop-btn__text {
+    color: $brown-color;
+    opacity: 1;
+  }
+}

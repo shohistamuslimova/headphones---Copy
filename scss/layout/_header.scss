@@ -1,0 +1,43 @@
+.header {
+  background-color: $black-third-color;
+}
+.header__container {
+  padding-top: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: $white-color;
+}
+
+.site-logo {
+}
+.site-logo__img {
+}
+.sitenav {
+}
+.sitenav__list {
+  display: flex;
+  align-items: center;
+  gap: 3.4rem;
+}
+.sitenav__item {
+  color: #fff;
+  font-family: Manrope;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px; /* 192.308% */
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.sitenav__icon {
+}
+.header__img {
+}
+.header__line {
+  width: 1110px;
+  height: 1px;
+  flex-shrink: 0;
+  opacity: 0.2;
+  background: #fff;
+}

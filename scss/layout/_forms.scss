@@ -1,0 +1,239 @@
+.main {
+  background-color: $white-color;
+}
+.hero__container {
+}
+
+.hero__wrapper {
+  margin-top: 60px;
+  display: flex;
+  align-items: center;
+}
+.hero__text {
+  margin-right: 60px;
+}
+.hero__title {
+  margin-bottom: 24px;
+  color: $white-color;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+}
+.hero__first-title {
+  margin-bottom: 24px;
+  color: $white-color;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 58px; /* 103.571% */
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.hero__paragrph {
+  margin-bottom: 50px;
+  width: 349px;
+  color: $white-color;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 25px; /* 166.667% */
+  opacity: 0.75;
+}
+.brown__btn {
+}
+.btn {
+}
+.hero__img {
+}
+
+.main__container {
+}
+
+.main__img-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.main__headphones {
+}
+.main__list {
+  padding: 80px 80px;
+  height: 204px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background: #f1f1f1;
+  margin-top: 120px;
+}
+.main__title {
+  color: $black-two-color;
+  text-align: center;
+  margin-top: 42px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1.286px;
+  text-transform: uppercase;
+}
+.main__image {
+}
+
+.main__two-wrapper {
+  background-color: $brown-color;
+  padding-top: 96px;
+  margin-top: 264px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.image {
+  padding-left: 117px;
+}
+.main__text-wrapper {
+  padding-right: 95px;
+}
+.title {
+  margin-bottom: 24px;
+  color: $white-color;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 58px; /* 103.571% */
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.paragraph {
+  padding-bottom: 40px;
+  width: 349px;
+  color: $white-color;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 25px; /* 166.667% */
+}
+.black-btn {
+}
+
+.main__big-image {
+  margin-top: 50px;
+}
+
+.main__third-wrapper {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+}
+.third-image {
+  margin-right: 50px;
+}
+.third__text-wrapper {
+  border-radius: 8px;
+  padding: 90px;
+  background-color: #f1f1f1;
+}
+.third__title {
+  margin-bottom: 30px;
+}
+
+.four__wrapper {
+  display: flex;
+  align-items: center;
+  margin-top: 150px;
+}
+.four__text {
+  margin-right: 130px;
+}
+.four__tittle {
+  text-transform: uppercase;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 1.4285714626312256px;
+  text-align: left;
+}
+.span {
+  color: $brown-light-color;
+}
+.four__paragraph {
+  font-family: "Manrope";
+  margin-top: 30px;
+  width: 445px;
+  opacity: 50%;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 25px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.four__image {
+  border-radius: 8px;
+}
+
+.footer {
+  margin-top: 140px;
+  background-color: $black-one-color;
+}
+
+.footer__container {
+}
+
+.footer__header {
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-logo__img {
+}
+.sitenav {
+}
+.sitenav__list {
+}
+.sitenav__item {
+  color: #fff;
+  font-family: "Manrope";
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px; /* 192.308% */
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.footer__wrapper {
+}
+.footer__paragraph {
+  opacity: 0.5;
+  width: 540px;
+  margin-top: 46px;
+  font-family: "Manrope";
+  color: #fff;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 25px; /* 166.667% */
+}
+.footer__conclusion {
+  opacity: 0.5;
+  margin-top: 56px;
+  color: #fff;
+  font-family: "Manrope";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px; /* 166.667% */
+}
+.socials {
+  gap: 1.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.footer__all {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
